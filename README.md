@@ -15,8 +15,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-333?style=flat&logo=Sass)&nbsp;
-
+![Sass](https://img.shields.io/badge/-Sass-333?style=flat&logo=Sass)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
