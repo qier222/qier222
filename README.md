@@ -7,7 +7,7 @@
 
 - YesPlayMusic [[repo]](https://github.com/qier222/YesPlayMusic) [[demo]](https://music.bluepill.one)
 - Untitled Currency Converter [[live site]](https://currency.bluepill.one)
-- OH Weather [[repo]](https://github.com/qier222/oh-weather) [[live site]](https://weather.bluepill.one)
+- OH Weather [[repo]](https://github.com/qier222/oh-weather) [[live site]](https://ohweather.bluepill.one)
 
 ### 🛠 &nbsp;This is the tools I use
 
@@ -33,6 +33,6 @@
 
 ### 🤙 &nbsp;This is my contact information
 
-via Email: hi@bluepill.one
+via Email: qier222@outlook.com
 
 via Telegram: https://t.me/qier222
