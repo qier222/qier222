@@ -37,4 +37,4 @@ via Email: qier222@outlook.com
 
 via Telegram: https://t.me/qier222
 
-### 🎛️ &nbsp;[Stay Vibrant ↑%](https://stay-vibrant.bluepill.one/)
+### 🎛️ &nbsp;Stay vibrant [↑%](https://stay-vibrant.bluepill.one/)
