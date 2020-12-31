@@ -5,9 +5,10 @@
 
 ### 🧱 &nbsp;This is my projects
 
-- YesPlayMusic [[repo]](https://github.com/qier222/YesPlayMusic) [[demo]](https://music.bluepill.one)
-- Untitled Currency Converter [[live site]](https://currency.bluepill.one)
-- OH Weather [[repo]](https://github.com/qier222/oh-weather) [[live site]](https://ohweather.bluepill.one)
+- YesPlayMusic [[repo]](https://github.com/qier222/YesPlayMusic) [[demo]](https://music.qier222.com)
+- 那天鸭 - 倒数日微信小程序 [[预览]](https://github.com/qier222/natianya-mini-program-preview)
+- Untitled Currency Converter [[live site]](https://currency.qier222.com)
+- OH Weather [[repo]](https://github.com/qier222/oh-weather) [[live site]](https://oh-weather.qier222.com)
 
 ### 🛠 &nbsp;This is the tools I use
 
